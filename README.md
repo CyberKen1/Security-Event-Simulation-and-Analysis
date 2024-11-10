@@ -15,11 +15,11 @@ The project focused on generating and analyzing security events using Nmap on Ka
 - **Elastic SIEM** for log ingestion, querying, and incident analysis.
 
 ## Steps
-![Screenshot 1: Nmap Scan Results](imgsrc)
 
-Description: Conducted an Nmap scan to simulate network traffic and identify open ports that could be exploited for generating security events.
+![Screenshot 1: Nmap Scan Results](https://github.com/user-attachments/assets/65bec528-e44d-4629-beb4-409e47953017)
 
-<img width="1429" alt="Screenshot 2024-11-10 at 6 48 31 PM" src="https://github.com/user-attachments/assets/c1feba68-c137-4b04-96c7-a36744475c14">
-![Screenshot 2: Elastic SIEM Log Analysis](imgsrc)
+**Description**: Conducted an Nmap scan to simulate network traffic and identify open ports that could be exploited for generating security events.
 
-Description: Queried and analyzed logs in Elastic SIEM to identify and investigate potential security incidents, ensuring improved monitoring and detection capabilities.
+![Screenshot 2: Elastic SIEM Log Analysis](https://github.com/user-attachments/assets/c1feba68-c137-4b04-96c7-a36744475c14)
+
+**Description**: Queried and analyzed logs in Elastic SIEM to identify and investigate potential security incidents, ensuring improved monitoring and detection capabilities.
